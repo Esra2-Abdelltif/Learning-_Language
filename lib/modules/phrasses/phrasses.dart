@@ -53,13 +53,13 @@ Widget BuildPhrasesmodel(itemModel Phrasses)=>Padding(
             ],
           ),
           const Spacer(flex: 1,),
-
+//
           Padding(
             padding: const EdgeInsets.only(right: 16),
             child: IconButton(onPressed:() {
               try{
                 AudioCache player = AudioCache(prefix: 'assets/sounds/phrases/');
-                player.play('${Phrasses.sound}');
+                player.play('${Phrasses.sound}' );
               }
               catch(ex)
               {
