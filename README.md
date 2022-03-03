@@ -1,6 +1,6 @@
 # lang_learnning_app
 
-A new Flutter application.
+Flutter application to learn Japanese language .
 
 ## Getting Started
 
