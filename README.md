@@ -3,6 +3,10 @@
 Flutter application to learn Japanese language .
 
 ## Getting Started
+![image](https://user-images.githubusercontent.com/72301777/156677548-0c21f8e4-bbd4-4749-8308-9b4abc816f87.png)
+![image](https://user-images.githubusercontent.com/72301777/156677566-68063adf-0a48-465a-b317-da3c242564ca.png)
+
+
 
 This project is a starting point for a Flutter application.
 
